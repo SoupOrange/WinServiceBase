@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinServiceBase", "WinServiceBase.csproj", "{26392D1E-D4DE-4414-8B94-CD6978FA1A46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinServiceInit", "..\WinServiceInit\WinServiceInit.csproj", "{6F6D6650-957A-4CD0-A4A2-05A2C6E62E61}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinServiceInit", "WinServiceInit\WinServiceInit.csproj", "{6F6D6650-957A-4CD0-A4A2-05A2C6E62E61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
